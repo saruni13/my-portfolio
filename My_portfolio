@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 500px 0 0;
+            padding: 500px;
+            background-color:brown;
+        }
+        header {
+            background-color:orange;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color:black;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            margin-top: 50;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Saruni's Portfolio</h1>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>My name is Timothy Saruni and I am a Strathmore graduate majored in Accountacy. I am passionate about computer technology and I am eager to learn and grow in software development.</p>
+
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <h3>Project 1</h3>
+    <p>Description of Project 1.</p>
+    <h3>Project 2</h3>
+    <p>Description of Project 2.</p>
+    <!-- Add more projects as needed -->
+</section>
+
+<section>
+    <h2>Skills/hobbies</h2>
+    <ul>
+        <li>basketballer</li>
+        <li>travelling</li>
+        <li>watching movies</li>
+        <!-- Add more skills as needed -->
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: timothysaruni13@gmail</p>
+    <p>Phone: 0715585527</p>
+</section>
+
+</body>
+</html>
